@@ -33,7 +33,7 @@ Cloneからdocker 立ち上げまで
 
 ```bash
 cd motu
-git clone -b dev1 git@github.com:tsuyu3/push-_test.git
+git clone git@github.com:tsuyu3/motu.git
 docker-compose up --build
 フロント：ブラウザ上でlocalhost:3000
 バックエンド：ブラウザ上でlocalhost:8000
